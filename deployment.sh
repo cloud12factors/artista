@@ -3,7 +3,7 @@
 # $1 Deployment name
 # $2 Image
 
-DEPLOYMENT_NAME="notificaciones-service"
+DEPLOYMENT_NAME="notificaciones-artista-service"
 IMAGE="docker.io/jchamu/proyfinaltest:1.1"
 
 echo "Working with values: DEPLOYMENT_NAME = $DEPLOYMENT_NAME & IMAGE = $IMAGE \n"
